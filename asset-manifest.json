@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Form_using_Raect_with_tailwind/static/css/main.825471a3.css",
+    "main.js": "/Form_using_Raect_with_tailwind/static/js/main.68951118.js",
+    "static/js/787.59520b8b.chunk.js": "/Form_using_Raect_with_tailwind/static/js/787.59520b8b.chunk.js",
+    "index.html": "/Form_using_Raect_with_tailwind/index.html",
+    "main.825471a3.css.map": "/Form_using_Raect_with_tailwind/static/css/main.825471a3.css.map",
+    "main.68951118.js.map": "/Form_using_Raect_with_tailwind/static/js/main.68951118.js.map",
+    "787.59520b8b.chunk.js.map": "/Form_using_Raect_with_tailwind/static/js/787.59520b8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.825471a3.css",
+    "static/js/main.68951118.js"
+  ]
+}
